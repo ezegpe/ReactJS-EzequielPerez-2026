@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Teclado mecanico Gamer",
+    "precio": "$30.000",
+    "descripcion": "Teclado mecanico Gamer con retroiluminación RGB y switches de alta calidad para una experiencia de juego óptima.",
+    "imagen": "https://i.ibb.co/Lzpy6bDV/fausto-sandoval-w5m3-PIGvkq-I-unsplash.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse RGB Gamer",
+    "precio": "$25.000",
+    "descripcion": "Mouse RGB Gamer con iluminación personalizable y sensor de alta precisión.",
+    "imagen": "https://i.ibb.co/9mLnJK0w/bestami-sarikaya-jt-NUt-M0wy5-I-unsplash.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Auriculares Gamer",
+    "precio": "$40.000",
+    "descripcion": "Auriculares Gamer con sonido envolvente y micrófono de alta calidad.",
+    "imagen": "https://i.ibb.co/Lzpy6bDV/fausto-sandoval-w5m3-PIGvkq-I-unsplash.jpg"
+  }
+]
